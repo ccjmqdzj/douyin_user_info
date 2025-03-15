@@ -14,7 +14,14 @@
 Python 3.6+
 pip (Python包管理器)
 安装步骤
-1. pip3 install -r requirements.txt
-2. python3 1.py
+1. 安装依赖项
+   ```bash
+   pip3 install -r requirements.txt
+   ```
+
+2. 运行程序
+   ```bash
+   python3 1.py
+   ```
 ![image](https://github.com/user-attachments/assets/82e7cea6-ae59-4bb2-b823-edbd29ccfecb)
 ![image](https://github.com/user-attachments/assets/f2c02435-88ab-4e5b-ad3f-eb6b688ec6bf)
