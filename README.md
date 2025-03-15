@@ -1,2 +1,3 @@
 # douyin_user_info
-这是一款爬虫软件 可以爬取抖音用户信息
+这是一款爬虫软件 可以批量爬取抖音用户信息
+![image](https://github.com/user-attachments/assets/82e7cea6-ae59-4bb2-b823-edbd29ccfecb)
